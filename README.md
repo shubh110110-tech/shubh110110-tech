@@ -6,7 +6,7 @@
 - My email: shubhranshujc24037b@nisvcbse.in
 - My linkedin: https://www.linkedin.com/in/shubhranshu-jha-2a942b322/
 - 😄 Pronouns:   He/Him
-  
+
 
 <!---
 shubh110110-tech/shubh110110-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
