@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shubh110110-tech
-- 👀 I’m interested in AI, Machine Learning, Robotics, Web Development and Quantum Computing.
-- 🌱 I’m currently learning Web Development, Machine Learning and Data Science.
-- 💞️ I’m looking to collaborate on AI, Machine Learning and Android/IOS Development.
+- 👀 I’m interested in contributing to the development of Artificial General Intelligence.
+- 🌱 I’m currently learning Physical AI Integration, Agentic Frameworks and DL Architectures.
+- 💞️ I’m looking to collaborate on AI-ML, Deep Learning and Robotics.
 - 📫 How to reach me: -
-- My email: shubhranshujc24037b@nisvcbse.in
+- My email: shubhranshujha110110@gmail.com
 - My linkedin: https://www.linkedin.com/in/shubhranshu-jha-2a942b322/
 - 😄 Pronouns:   He/Him
 
